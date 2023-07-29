@@ -1,6 +1,6 @@
 
 /*This is a query to show my understanding of the CASE statement in sql that is used to 
-query a database using certtain conditions
+query a database using certain conditions
 */
 
 --Step 1: create table
